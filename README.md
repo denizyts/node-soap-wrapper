@@ -21,7 +21,7 @@
 
 You can install with or clone the project
 ~~~javascript  
-  npm i soap-wrapper
+  npm i node-soap-wrapper
 ~~~  
 
 
