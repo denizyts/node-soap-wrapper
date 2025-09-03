@@ -95,7 +95,7 @@ The wsdl will be generated you can use if you want.
 let service = wrapperObj.createServices('http://localhost:8000/denocan');
 let wsdl = wrapperObj.wsdl
 ~~~  
-## The Generated WSDL 🚀 
+## The Generated WSDL 
 
 You can get the wsdl by sending post request to the base api, on local: 
 http://localhost:8000/wsdl returns you wsdl.
